@@ -1,6 +1,3 @@
-Here’s the updated version of your README.md incorporating the new format for your skills:
-
-```markdown
 <!--
 **mek-s/mek-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -149,6 +146,3 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/mek_sou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mek_sou" height="30" width="40" /></a>
 <a href="https://medium.com/@mek-s" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mek-s" height="30" width="40" /></a>
 </p>
-```
-
-Feel free to let me know if there are any other changes or additions you'd like to make!
