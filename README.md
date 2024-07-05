@@ -71,18 +71,6 @@ Here are some ideas to get you started:
  
 </table>
 
-<p align="center">
-  <a href="https://github.com/mek-s/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mek-s&layout=compact&theme=radical" alt="mek-s" /></a>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mek-s&show_icons=true&locale=en&theme=radical" alt="mek-s" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mek-s&theme=radical" alt="mek-s" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/soumeya-mekki-x55/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="soumeya-mekki" height="30" width="40" /></a>
