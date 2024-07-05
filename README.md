@@ -63,15 +63,6 @@ Here are some ideas to get you started:
 <h4>Learning & Exploring</h4>
 <table>
   <tr>
-    <td><b>Web Development</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-     
-      </td>
-  </tr>
-
-  <tr>
     <td><b>Machine Learning</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/>
