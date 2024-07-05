@@ -88,4 +88,3 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/soumeya-mekki-x55/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="soumeya-mekki" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mek-s" alt="mek-s" /></a> </p>
