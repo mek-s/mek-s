@@ -36,12 +36,14 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
     </td>
   </tr>
   <tr>
     <td><b>IoT</b></td>
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
     </td>
   </tr>
@@ -67,32 +69,10 @@ Here are some ideas to get you started:
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chartjs/chartjs-original.svg" alt="chartjs" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="mariadb" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/invision/invision-original.svg" alt="invision" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="
+     
+      </td>
+  </tr>
 
-40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>IoT</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/>
-    </td>
-  </tr>
   <tr>
     <td><b>Machine Learning</b></td>
     <td>
@@ -100,15 +80,7 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
     </td>
   </tr>
-  <tr>
-    <td><b>Cloud Computing</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original-wordmark.svg" alt="aws" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </td>
-  </tr>
+ 
 </table>
 
 <p align="center">
